@@ -4,7 +4,7 @@ import React from 'react'
 export const Shop = () => {
     const styles ={
         col:{
-            
+                
             border: '2px solid #000000',
         }
     }
@@ -19,7 +19,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 1</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 2</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 3</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a    className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 1</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 2</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 3</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 1</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 2</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@ export const Shop = () => {
                         <div className="card-body">
                             <h5 className="card-title">painting 3</h5>
                             <p className="card-text">Some quick example text to build on the card title.</p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a   className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
